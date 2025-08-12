@@ -1,0 +1,78 @@
+{
+  "garment_technology": {
+    "year_1": {
+      "term_1": [
+        "Fashion, Costume, and Society",
+        "Ready-made Garment Technology",
+        "Body Drawing and Fashion Design Basics",
+        "Information Technology",
+        "Draping on Mannequin I",
+        "Italian Language I"
+      ],
+      "term_2": [
+        "Textile Science",
+        "Computer-Aided Fashion Design I",
+        "Technology History",
+        "Fashion Drawing and Design",
+        "Casual Women's Wear Pattern Making",
+        "Italian Language II",
+        "English for Fashion I"
+      ]
+    },
+    "year_2": {
+      "term_1": [
+        "Computer-Aided Fashion Design II",
+        "Professional Ethics and Egyptian Labor Law",
+        "Women's Fashion Design",
+        "Draping on Mannequin II",
+        "Garment Printing and Dyeing",
+        "English for Fashion II",
+        "Human Rights"
+      ],
+      "term_2": [
+        "Production Planning and Quality Control",
+        "Fashion Design and Development",
+        "Formal Women's Wear Pattern Making",
+        "Field Training I",
+        "Graduation Project I"
+      ]
+    },
+    "year_3": {
+      "term_1": [
+        "Production Planning and Management Using Computer",
+        "Men's Fashion Design",
+        "Casual Men's Wear Pattern Making",
+        "Italian for Garment Industry",
+        "English for Garment Industry",
+        "Specialized Elective I"
+      ],
+      "term_2": [
+        "Computer-Aided Pattern Making",
+        "Marketing Principles",
+        "Formal Men's Wear Pattern Making",
+        "Advanced Haute Couture Sewing Techniques",
+        "Italian for Academic Writing",
+        "English for Academic Writing",
+        "Specialized Elective II"
+      ]
+    },
+    "year_4": {
+      "term_1": [
+        "Children's Wear Pattern Making",
+        "Fabric Embellishment Art",
+        "Fundamentals of Engineering Management",
+        "Fashion Forecasting",
+        "Graduation Project II",
+        "Specialized Elective III"
+      ],
+      "term_2": [
+        "Technical Writing and Oral Presentation",
+        "Packaging and Labeling Design",
+        "Portfolio Design",
+        "Field Training II",
+        "Graduation Project III",
+        "Specialized Elective IV"
+      ]
+    }
+  }
+}

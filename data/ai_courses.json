@@ -1,0 +1,92 @@
+{
+  "ai_department": {
+    "year_1": {
+      "term_1": [
+        "English",
+        "Math",
+        "Physics",
+        "Statistics",
+        "Python",
+        "Information Technology",
+        "Information System",
+        "Training"
+      ],
+      "term_2": [
+        "English",
+        "Operating System",
+        "Programming of AI",
+        "Basics of AI",
+        "Negotiation Skills",
+        "Human Rights",
+        "Design of Digital Circuits",
+        "Training"
+      ]
+    },
+    "year_2": {
+      "term_1": [
+        "History of Technology",
+        "Expert System",
+        "java",
+        "Safety and Occupational Health",
+        "AI Applications",
+        "Fundamentals of Data Science",
+        "Artificial Intelligence",
+        "Principles of Technology"
+      ],
+      "term_2": [
+        "Algorithm Design",
+        "Internet of Things (IoT)",
+        "Data Mining",
+        "Cloud Computing",
+        "Practical Graduation Project",
+        "Human Rights and the Egyptian Labor Law",
+        "Specialized English",
+        "Internet Application Development"
+
+      ]
+    },
+    "year_3": {
+      "term_1": [
+        "Principles of Management & Leadership",
+        "Statistics 2",
+        "Corporate Monitoring & Protection",
+        "Means of Piracy & Theft Detection",
+        "Huge Data",
+        "Specialization Course",
+        "Intelligent Robots",
+        "Training"
+      ],
+      "term_2": [
+        "Professional Ethics",
+        "Educational Technology",
+        "Specialization Course",
+        "Principles of Marketing",
+        "Teaching Aids in Tech Education",
+        "Virtual Augmented Reality",
+        "Explore & Analyze Data",
+        "Training"
+      ]
+    },
+    "year_4": {
+      "term_1": [
+        "Digital Image Processing",
+        "Natural Language Processing (NLP)",
+        "Information & Network Security",
+        "Specialization Courses",
+        "Foundations of Writing Scientific Research",
+        "Elective (1) of the College Courses",
+        "Elective (1) of the University Courses",
+        "Graduation Project"
+      ],
+      "term_2": [
+        "Distinguish Virtual Styles",
+        "Elective (2) of the College Courses",
+        "Elective (2) of the University Courses",
+        "Course of 3D Models",
+        "Multimedia",
+        "Specialization Course",
+        "Practical Graduation Project"
+      ]
+    }
+  }
+}

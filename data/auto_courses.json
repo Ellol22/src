@@ -1,0 +1,74 @@
+{
+  "autotronics": {
+    "year_1": {
+      "term_1": [
+        "English (1)",
+        "Mathematics (1)",
+        "Physics",
+        "Information Technology",
+        "Graphics",
+        "Basics of Workshops"
+      ],
+      "term_2": [
+        "English Language (2)",
+        "Mathematics (2)",
+        "Occupational Safety and Health",
+        "Hydraulics Basics",
+        "Electric Motors and Parts",
+        "Principles of Electricity and Auto Electronics"
+      ]
+    },
+    "year_2": {
+      "term_1": [
+        "English (3)",
+        "Thermodynamics",
+        "Properties of Materials",
+        "Engines (2)",
+        "Traditional Transmission Systems",
+        "Power Systems"
+      ],
+      "term_2": [
+        "Technical Report Writing",
+        "Functional Behavior and Communication Skills",
+        "Guidance and Entrepreneurship",
+        "Brake Systems",
+        "Suspension and Steering Systems",
+        "Engine Maintenance and Repair"
+      ]
+    },
+    "year_3": {
+      "term_1": [
+        "English Language",
+        "Fluid Mechanics",
+        "Electronic Ignition Circuits",
+        "Gasoline and Diesel Fuel Systems",
+        "Vehicle Dynamics 1"
+      ],
+      "term_2": [
+        "English Language",
+        "Electric Circuits and Luxury Vehicles",
+        "Vehicle Security and Safety Systems",
+        "Automatic Transmission",
+        "Air Conditioning and Heating Systems",
+        "Vehicle Dynamics 2"
+      ]
+    },
+    "year_4": {
+      "term_1": [
+        "English Language",
+        "Electronic Motor Control Systems",
+        "Electronic Control Systems for Suspension, Steering and Brake",
+        "Management of Transport and Traffic Systems",
+        "Computer Graphics"
+      ],
+      "term_2": [
+        "English Language",
+        "Integrated Electronic Systems",
+        "Hybrid Vehicles and Fuel Substitutes",
+        "Planning and Management of Maintenance Centers",
+        "Advanced Field Training",
+        "Graduation Project"
+      ]
+    }
+  }
+}

@@ -1,0 +1,328 @@
+  {
+    "ai_department": {
+      "year_2": {
+        "term_2": [
+          {
+            "day": "Saturday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 1",
+            "course": "Cloud Computing",
+            "instructor": "ENG. Mostafa",
+            "room": "D101"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 3",
+            "course": "Internet of Things",
+            "instructor": "ENG. Mohamed Hamdy",
+            "room": "A1"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 4",
+            "course": "Internet Application Development",
+            "instructor": "ENG. Shimaa",
+            "room": "D104"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "All",
+            "course": "Human Rights and the Egyptian Labor Law",
+            "instructor": "Dr.mohsen",
+            "room": "G205"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 3,
+            "start_time": "12:15",
+            "end_time": "01:55",
+            "section": "All",
+            "course": "Internet of Things",
+            "instructor": "Dr.abdelsalam",
+            "room": "G205"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 4,
+            "start_time": "02:00",
+            "end_time": "03:40",
+            "section": "Sec 2",
+            "course": "Cloud Computing",
+            "instructor": "ENG. Mostafa",
+            "room": "D101"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 4,
+            "start_time": "02:00",
+            "end_time": "03:40",
+            "section": "Sec 3",
+            "course": "Internet Application Development",
+            "instructor": "ENG. Shimaa",
+            "room": "D104"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 5,
+            "start_time": "03:45",
+            "end_time": "05:15",
+            "section": "Sec 5",
+            "course": "Internet Application Development",
+            "instructor": "ENG. Shimaa",
+            "room": "D104"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 1",
+            "course": "Algorithm Design",
+            "instructor": "ENG. Mohamed Hamdy",
+            "room": "D105"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 3",
+            "course": "Algorithm Design",
+            "instructor": "ENG. Abdulaziz",
+            "room": "D103"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 4",
+            "course": "Cloud Computing",
+            "instructor": "ENG. Mostafa",
+            "room": "D104"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 2",
+            "course": "Algorithm Design",
+            "instructor": "ENG. Mohamed Hamdy",
+            "room": "D105"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 4",
+            "course": "Algorithm Design",
+            "instructor": "ENG. Abdulaziz",
+            "room": "D103"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 3,
+            "start_time": "12:15",
+            "end_time": "01:55",
+            "section": "All",
+            "course": "Specialized English",
+            "instructor": "dr.sherehan",
+            "room": "G202"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 3",
+            "course": "Data Mining",
+            "instructor": "ENG. Yasmen",
+            "room": "D104"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 5",
+            "course": "Internet of Things",
+            "instructor": "ENG. Mohamed Hamdy",
+            "room": "D105"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 1",
+            "course": "Data Mining",
+            "instructor": "ENG. Naglaa",
+            "room": "A02"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 3",
+            "course": "Data Mining",
+            "instructor": "ENG. Yasmen",
+            "room": "D102"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 3,
+            "start_time": "12:15",
+            "end_time": "01:55",
+            "section": "Sec 2",
+            "course": "Data Mining",
+            "instructor": "ENG. Naglaa",
+            "room": "A01"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 3,
+            "start_time": "12:15",
+            "end_time": "01:55",
+            "section": "Sec 5",
+            "course": "Data Mining",
+            "instructor": "ENG. Yasmen",
+            "room": "D102"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 4,
+            "start_time": "02:00",
+            "end_time": "03:40",
+            "section": "All",
+            "course": "Internet Application Development development",
+            "instructor": "dr mohamed sobhy",
+            "room": "F seminar"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 5,
+            "start_time": "03:45",
+            "end_time": "05:15",
+            "section": "All",
+            "course": "cloud Computing",
+            "instructor": "dr marwa",
+            "room": "F seminar"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "All",
+            "course": "Algorithm Design",
+            "instructor": "dr anwar",
+            "room": "G203"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 1",
+            "course": "Internet of Things",
+            "instructor": "ENG. Mohamed Ammar",
+            "room": "D102"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 2",
+            "course": "Internet Application Development",
+            "instructor": "ENG. Naglaa",
+            "room": "A1"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 4",
+            "course": "Internet of Things",
+            "instructor": "ENG. Mohamed Hamdy",
+            "room": "D105"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 5",
+            "course": "Cloud Computing",
+            "instructor": "ENG. Mostafa",
+            "room": "D103"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 3,
+            "start_time": "12:15",
+            "end_time": "01:55",
+            "section": "All",
+            "course": "Data Mining",
+            "instructor": "dr mohamed yasin",
+            "room": "F seminar"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 4,
+            "start_time": "02:00",
+            "end_time": "03:40",
+            "section": "Sec 1",
+            "course": "Internet Application Development",
+            "instructor": "ENG. Naglaa",
+            "room": "A1"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 4,
+            "start_time": "02:00",
+            "end_time": "03:40",
+            "section": "Sec 2",
+            "course": "Internet of Things",
+            "instructor": "ENG. Mohamed Ammar",
+            "room": "D102"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 4,
+            "start_time": "02:00",
+            "end_time": "03:40",
+            "section": "Sec 3",
+            "course": "Cloud Computing",
+            "instructor": "ENG. Mostafa",
+            "room": "D103"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 4,
+            "start_time": "02:00",
+            "end_time": "03:40",
+            "section": "Sec 5",
+            "course": "Algorithm Design",
+            "instructor": "ENG. HABIBA",
+            "room": "D101"
+          }
+        ]
+      }
+    }
+  }

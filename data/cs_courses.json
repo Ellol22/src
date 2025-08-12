@@ -1,0 +1,90 @@
+{
+  "cyber_department": {
+    "year_1": {
+      "term_1": [
+        "English Language I",
+        "Information Technology",
+        "Mathematics",
+        "Entrepreneurial Skills and Creative Thinking",
+        "Physics",
+        "Introduction to Information Systems",
+        "Database Systems",
+        "Practical Training I"
+      ],
+      "term_2": [
+        "English Language II",
+        "Principles of Technology",
+        "Technical Drawing",
+        "Negotiation Skills",
+        "Principles of Cybersecurity",
+        "Networks and Data Communication",
+        "Operating Systems",
+        "Practical Training II"
+      ]
+    },
+    "year_2": {
+      "term_1": [
+        "Technology History",
+        "English for Specific Purposes",
+        "Occupational Health and Safety",
+        "Programming for Cybersecurity",
+        "Network Security Protocols",
+        "Artificial Intelligence",
+        "Secure Network",
+        "Web Applications Development"
+      ],
+      "term_2": [
+        "Human Rights and Labor Law",
+        "Algorithm Design",
+        "Software and Systems Design",
+        "Data Mining",
+        "Cybersecurity and Digital Transformation",
+        "Java Programming",
+        "Practical Graduation Project"
+      ]
+    },
+    "year_3": {
+      "term_1": [
+        "Principles of Management and Leadership",
+        "Statistics",
+        "Corporate Supervision and Protection",
+        "Hacking and Detection Techniques",
+        "Big Data",
+        "Ethics in Work and Ethical Hacking",
+        "Practical Training III",
+        "Specialization Elective"
+      ],
+      "term_2": [
+        "Professional Ethics",
+        "Educational Technology",
+        "Marketing Principles",
+        "Educational Aids in Technology",
+        "Cybercrime Law",
+        "Smart Card Security",
+        "Practical Training IV",
+        "Specialization Elective"
+      ]
+    },
+    "year_4": {
+      "term_1": [
+        "Scientific Research Writing",
+        "University Elective (1)",
+        "College Elective (1)",
+        "Linux Security Basics",
+        "Cryptography",
+        "Cybersecurity Auditing",
+        "Graduation Project",
+        "Specialization Elective"
+      ],
+      "term_2": [
+        "University Elective (2)",
+        "College Elective (2)",
+        "Advanced Applied Cryptography",
+        "Advanced Programming",
+        "Secure Applications Programming",
+        "Practical Graduation Project",
+        "Specialization Elective"
+      ]
+    }
+  }
+}

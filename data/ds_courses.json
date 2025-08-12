@@ -1,0 +1,90 @@
+{
+  "data_science_department": {
+    "year_1": {
+      "term_1": [
+        "English Language",
+        "Information Technology",
+        "Mathematics",
+        "Applied Statistics",
+        "Applied Physics",
+        "Introduction to Information Systems",
+        "Digital Transformation Culture",
+        "Field Training (1)"
+      ],
+      "term_2": [
+        "English Language",
+        "Technology Principles",
+        "AI Programming",
+        "Negotiation Skills",
+        "Systems Analysis and Design",
+        "Data Mining",
+        "Operating Systems",
+        "Field Training (2)"
+      ]
+    },
+    "year_2": {
+      "term_1": [
+        "History of Technology",
+        "Specialized English",
+        "Occupational Health and Safety",
+        "Data Engineering and Analysis",
+        "Expert Systems",
+        "Artificial Intelligence",
+        "Data Science Fundamentals",
+        "Internet Application Development"
+      ],
+      "term_2": [
+        "Human Rights and Egyptian Labor Law",
+        "Algorithm Design",
+        "Internet of Things (IoT)",
+        "Data Mining",
+        "Cloud Computing",
+        "Big Data Analytics",
+        "Graduation Project (1)"
+      ]
+    },
+    "year_3": {
+      "term_1": [
+        "Principles of Management and Leadership",
+        "Statistics",
+        "Corporate Monitoring and Protection",
+        "Cyber Threats and Detection Methods",
+        "Elective Specialization Course",
+        "Machine Learning with Python",
+        "Smart Robotics",
+        "Field Training (1)"
+      ],
+      "term_2": [
+        "Professional Ethics",
+        "Educational Technology",
+        "Marketing Fundamentals",
+        "Instructional Technologies in Education",
+        "Elective Specialization Course",
+        "Virtual and Augmented Reality",
+        "Data Exploration and Analysis",
+        "Field Training (2)"
+      ]
+    },
+    "year_4": {
+      "term_1": [
+        "Scientific Research Writing",
+        "University Elective (1)",
+        "Faculty Elective (1)",
+        "Elective Specialization Course",
+        "Information and Network Security",
+        "Natural Language Processing (NLP)",
+        "Algorithm Design and Analysis",
+        "Graduation Project (2)"
+      ],
+      "term_2": [
+        "University Elective (2)",
+        "Faculty Elective (2)",
+        "Elective Specialization Course",
+        "Virtual Pattern Recognition",
+        "Data Retrieval Fundamentals",
+        "Intrusion Detection Systems",
+        "Practical Graduation Project"
+      ]
+    }
+  }
+}

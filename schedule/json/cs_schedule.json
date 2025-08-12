@@ -1,0 +1,158 @@
+  {
+    "cs_department": {
+      "year_3": {
+        "term_2": [
+          {
+            "day": "Saturday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "All",
+            "course": "Training"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "All",
+            "course": "Training"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 3,
+            "start_time": "12:15",
+            "end_time": "01:55",
+            "section": "All",
+            "course": "Training"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 4,
+            "start_time": "02:00",
+            "end_time": "03:40",
+            "section": "All",
+            "course": "Training"
+          },
+          {
+            "day": "Saturday",
+            "slot_number": 5,
+            "start_time": "03:45",
+            "end_time": "05:20",
+            "section": "All",
+            "course": "Training"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 1",
+            "course": "Smart Card Security",
+            "instructor": "ENG. Yasmine",
+            "room": "D101"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "Sec 2",
+            "course": "Network Security",
+            "instructor": "ENG. Habiba",
+            "room": "D102"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 1",
+            "course": "Network Security",
+            "instructor": "ENG. Habiba",
+            "room": "D102"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "Sec 2",
+            "course": "Smart Card Security",
+            "instructor": "ENG. Yasmine",
+            "room": "D101"
+          },
+          {
+            "day": "Sunday",
+            "slot_number": 3,
+            "start_time": "12:15",
+            "end_time": "01:55",
+            "section": "All",
+            "course": "Marketing Principles",
+            "instructor": "dr. Yehia Bahansy",
+            "room": "G203"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "All",
+            "course": "Educational Aids in Technology",
+            "instructor": "dr. Mohamed Yassin",
+            "room": "G203"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 3,
+            "start_time": "12:15",
+            "end_time": "01:55",
+            "section": "All",
+            "course": "Educational Technology",
+            "instructor": "dr. Ashraf",
+            "room": "G203"
+          },
+          {
+            "day": "Monday",
+            "slot_number": 5,
+            "start_time": "03:45",
+            "end_time": "05:15",
+            "section": "All",
+            "course": "Professional Ethics",
+            "instructor": "dr. Abdel Salam",
+            "room": "G203"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 1,
+            "start_time": "08:30",
+            "end_time": "10:10",
+            "section": "All",
+            "course": "Specialization Elective",
+            "instructor": "dr Kirollos Khalaf",
+            "room": "G208"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 2,
+            "start_time": "10:15",
+            "end_time": "11:55",
+            "section": "All",
+            "course": "Cybercrime Law",
+            "instructor": "dr. Kirollos Khalaf",
+            "room": "D208"
+          },
+          {
+            "day": "Tuesday",
+            "slot_number": 4,
+            "start_time": "02:00",
+            "end_time": "03:40",
+            "section": "All",
+            "course": "Smart Card Security",
+            "instructor": "dr. Sayed El-Far",
+            "room": "G203"
+          }
+        ]
+      }
+    }
+  } 

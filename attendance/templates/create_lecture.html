@@ -1,0 +1,33 @@
+<form method="POST" style="width: 300px; margin: auto;">
+  {% csrf_token %}
+
+  <div style="margin-bottom: 15px;">
+    <label for="course_id">اختر الكورس:</label><br>
+    <select name="course_id" id="course_id" style="width: 100%;">
+      {% for course in courses %}
+        <option value="{{ course.id }}">{{ course.name }}</option>
+      {% endfor %}
+    </select>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <label for="lecture_name">اسم المحاضرة:</label><br>
+    <input type="text" name="lecture_name" id="lecture_name" style="width: 100%;" required>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <label for="lecture_date">تاريخ المحاضرة:</label><br>
+    <input type="date" name="lecture_date" id="lecture_date" style="width: 100%;">
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <label for="building_code">رمز المبنى (مثلاً A أو D):</label><br>
+    <input type="text" name="building_code" id="building_code" maxlength="5" required style="width: 100%;">
+  </div>
+
+  <button type="submit" style="width: 100%; padding: 10px;">بدء المحاضرة وإنشاء QR</button>
+
+  {% if error %}
+    <p style="color: red; margin-top: 10px;">{{ error }}</p>
+  {% endif %}
+</form>

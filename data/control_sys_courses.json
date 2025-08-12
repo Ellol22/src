@@ -1,0 +1,77 @@
+{
+  "industrial_control": {
+    "year_1": {
+      "term_1": [
+        "Mathematics (1)",
+        "Principles of Electronics",
+        "Electrical Drawing",
+        "Physics",
+        "Principles and Operation of Electrical Machines",
+        "Italian Language (1)"
+      ],
+      "term_2": [
+        "Mathematics (2)",
+        "Industrial Electronics",
+        "Computer Science",
+        "Logic and Sequential Circuits Fundamentals",
+        "Sensors and Actuators",
+        "Italian Language (2)"
+      ]
+    },
+    "year_2": {
+      "term_1": [
+        "Industrial Process Control",
+        "Programmable Logic Controllers (PLC)",
+        "Electrical Drives in Industrial Processes",
+        "Electrical Heating and Cooling Systems",
+        "Industrial Automation and Mechatronics",
+        "English Language (1)",
+        "Professional Ethics and Labor Market Law"
+      ],
+      "term_2": [
+        "Hydraulic, Pneumatic, Air & Water Filtration Systems",
+        "Production Line Maintenance",
+        "Supervisory Skills",
+        "Field Training",
+        "Graduation Project",
+        "English Language (2)"
+      ]
+    },
+    "year_3": {
+      "term_1": [
+        "Signals and Systems",
+        "Production Process Control",
+        "Introduction to SCADA Systems",
+        "Probability and Statistics",
+        "Water Treatment in Industrial Systems",
+        "Italian Language (3)"
+      ],
+      "term_2": [
+        "Quality Control",
+        "PLC Programming and SCADA Systems",
+        "Industrial Instrumentation and Control Devices",
+        "Program Setup, Commissioning and Documentation",
+        "Smart Buildings",
+        "Italian Language (4)"
+      ]
+    },
+    "year_4": {
+      "term_1": [
+        "Microcontrollers",
+        "Production Monitoring and Evaluation",
+        "Industrial Networks and Protocols",
+        "Renewable Energy Systems",
+        "Advanced Manufacturing Systems",
+        "English Language (3)"
+      ],
+      "term_2": [
+        "Troubleshooting and Maintenance Techniques",
+        "Programming of Manufacturing Cells",
+        "Management Skills",
+        "Field Training",
+        "Graduation Project",
+        "English Language (4)"
+      ]
+    }
+  }
+}

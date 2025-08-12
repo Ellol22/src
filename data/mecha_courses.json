@@ -1,0 +1,72 @@
+{
+  "mechatronics": {
+    "year_1": {
+      "term_1": [
+        "Technical English at WorkPlace I",
+        "Communication Skills in Technology: Reading Technical Information / Drawings",
+        "Mathematics for Technicians",
+        "Application of Math and Science in Technology",
+        "Health, Safety and Risk Assessment in Workplaces",
+        "Physics for Technicians"
+      ],
+      "term_2": [
+        "Technical English at WorkPlace II",
+        "Environmental Studies",
+        "Basic Mechatronics Workshop",
+        "Computer Technology",
+        "Electric Circuits",
+        "CAD for Technicians",
+        "Computer-Aided Kinematics"
+      ]
+    },
+    "year_2": {
+      "term_1": [
+        "Pneumatics and Hydraulics Practice",
+        "Programming for Mechatronics Applications",
+        "Material Selection for Technical Applications",
+        "Fundamentals of PC-based Control",
+        "PLC"
+      ],
+      "term_2": [
+        "Electrical and Electronics Workshop",
+        "Electromechanical Systems Maintenance",
+        "Capstone Design",
+        "Mechatronic Systems for Technologists",
+        "Selective Course I",
+        "Enterprise & Entrepreneurship I"
+      ]
+    },
+    "year_3": {
+      "term_1": [
+        "Mathematics for Technologist",
+        "3D CAD and Mechanical Modeling",
+        "Automatic Control",
+        "Robotic Systems",
+        "Sensors and Instrumentation"
+      ],
+      "term_2": [
+        "Power Electronics and Drives",
+        "CNC Technology",
+        "Mechanism Design for Technologists",
+        "Microprocessor Technology",
+        "Production System Planning & Control"
+      ]
+    },
+    "year_4": {
+      "term_1": [
+        "Business Communication and Ethics & Employability Skills",
+        "Embedded Systems",
+        "Digital Signal Processing",
+        "Dynamic Systems: Modeling & Design",
+        "Metrology and Quality Control for Technologists",
+        "Human-Machine Interface Technology"
+      ],
+      "term_2": [
+        "Selective Course II",
+        "Enterprise & Entrepreneurship II",
+        "Advanced PLC",
+        "Graduation Project"
+      ]
+    }
+  }
+}
