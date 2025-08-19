@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # Environment variables
 SECRET_KEY = os.getenv('SECRET_KEY', '9eadf54afe12de795a409fc8a0e8c950e923521100f0396c377b40de6a2c539a')
 DEBUG = os.getenv('DEBUG', 'True') == 'True'
-SITE_DOMAIN = os.getenv('SITE_DOMAIN', 'https://eden-winds-april-germany.trycloudflare.com')
+SITE_DOMAIN = os.getenv('SITE_DOMAIN', 'https://clicking-appointment-coordinates-hang.trycloudflare.com')
 FRONTEND_URL = os.getenv('FRONTEND_URL', 'http://localhost:3000')
 EMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', 'helwanuniversity82@gmail.com')
 EMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', 'kxcp kryq kbut kolg')
@@ -37,7 +37,7 @@ ALLOWED_HOSTS = [
     site_hostname,
     'localhost',
     '127.0.0.1',
-    'eden-winds-april-germany.trycloudflare.com',
+    'clicking-appointment-coordinates-hang.trycloudflare.com',
 ]
 
 # Application definition
@@ -99,8 +99,8 @@ def mobile_origin_allow_middleware(get_response):
             FRONTEND_URL,
             'http://localhost:3000',
             'http://127.0.0.1:3000',
-            'https://eden-winds-april-germany.trycloudflare.com',
-            'eden-winds-april-germany.trycloudflare.com',
+            'https://clicking-appointment-coordinates-hang.trycloudflare.com',
+            'clicking-appointment-coordinates-hang.trycloudflare.com',
         ]
 
         if method == 'OPTIONS':
@@ -149,7 +149,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://127.0.0.1:8000',
     'http://localhost:3000',
     'http://127.0.0.1:3000',
-    'https://eden-winds-april-germany.trycloudflare.com',
+    'https://clicking-appointment-coordinates-hang.trycloudflare.com',
 ]
 
 CORS_ALLOW_HEADERS = list(default_headers) + [
@@ -183,7 +183,7 @@ CSRF_TRUSTED_ORIGINS = [
     FRONTEND_URL,
     'http://localhost:3000',
     'http://127.0.0.1:3000',
-    'https://eden-winds-april-germany.trycloudflare.com',
+    'https://clicking-appointment-coordinates-hang.trycloudflare.com',
     'http://127.0.0.1:8000'
 ]
 
